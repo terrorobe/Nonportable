@@ -13,12 +13,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe#/setup.exe",
-            "hash": "6b78a98202bdf72572b8f5590422cfae7b24b8775499406fec7ed1b68b98011d"
-        },
-        "32bit": {
-            "url": "https://download-cdn.resilio.com/stable/windows/Resilio-Sync.exe#/setup.exe",
-            "hash": "8101ab7a109a8bf48555b87f0e7f0aca6311b3cd32db2906d6df4be7b88c8947"
+            "url": "https://download-cdn.resilio.com/stable/windows/64/0/Resilio-Sync_x64.exe",
+            "hash": "b7cd0321756416bf8b476fe139456a1e7b199a73696e58eb2c1c81b46f152f37"
         }
     },
     "installer": {
@@ -45,10 +41,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe#/setup.exe"
-            },
-            "32bit": {
-                "url": "https://download-cdn.resilio.com/stable/windows/Resilio-Sync.exe#/setup.exe"
+                "url": "https://download-cdn.resilio.com/stable/windows/64/0/Resilio-Sync_x64.exe"
             }
         }
     }
